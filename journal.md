@@ -33,3 +33,10 @@ I was so very wrong. I think I’m just going to use my svg as a guide and trace
 
 6/4/25 @ 9:05pm
 Have had pretty much no luck with tracing, only throwing more errors. Tried figma but it ended up looking pretty bad. Will likely try again tomorrow to make the blend file work, but need to both eat dinner and sleep first, so that’s wraps for today.
+
+6/5/25 @ 2:54pm
+And that should be everything finished! Ended up just polygon tracing the bow image over since svg imports were being annoying -- I kinda like the more PCB-like look of it though! Everything in the 3D viewport is looking great as well, and it's (just barely) under 100mm, so I think it's ready for submission!
+![image](https://github.com/user-attachments/assets/a2490349-26cc-4890-a9db-63d70fe379a4)
+![image](https://github.com/user-attachments/assets/4ae81ced-94ef-4096-878f-68966bad8b9f)
+
+
