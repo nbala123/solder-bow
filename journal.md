@@ -1,6 +1,14 @@
+title: "Solder Bow"
+author: "Nia"
+description: "A weareable PCB bow for Solder (Starter Project)"
+created_at: "2024-06-04"
+
+
+
 Pre-Highway Call:
 Jumped the gun a lil bit and made an SVG of a bow for my PCB shape. I used blender because, hey, it works (and also I couldn’t deal with Figma on a touchpad).
 Used a curve to create one quadrant, flipped it across the X and Y axes, and converted it to grease pencil with a high resolution for rendering.
+
 ![image](https://github.com/user-attachments/assets/c16a8ae6-d50a-4d03-9bb7-8df268a0892b)
 
 6/4/25 @ 6:59pm 
