@@ -13,6 +13,7 @@ Slack Username: Nia
 ![image](https://github.com/user-attachments/assets/f32bbbb4-96fd-407b-9a5b-6b88d3858878)
 
 # 3D View
+![image](https://github.com/user-attachments/assets/d93b9c9a-c6c7-4995-8f00-2d1cbf3d29a1)
 ![image](https://github.com/user-attachments/assets/912a8acb-863c-4cf2-9680-570f80e39d61)
 
 # BOM
